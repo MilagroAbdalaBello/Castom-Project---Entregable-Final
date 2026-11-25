@@ -155,3 +155,14 @@ streamlit run app_eda.py
 1. Crear un nuevo escenario en Make.
 2. Ir a **More (`...`) -> Import Blueprint** y cargar `make_workflow/blueprint.json`.
 3. Configurar las credenciales correspondientes para Apify, Google Drive y Gmail.
+
+## Presentación / Video
+
+Podés ver nuestra presentación narrada sobre inteligencia competitiva acá:  
+[Inteligencia competitiva para decidir a tiempo (Prezi)](https://prezi.com/page/kiNoHXPs53ij23MuZkSb67/inteligencia-competitiva-para-decidir-a-tiempo?mode=narrated&referral_token=gEcU9XlnB3FN)
+
+> **Cuak-Data** — Comisión 1, Grupo 5  
+> Somos el equipo **Cuak-Data** (Comisión 1, Grupo 5), integrado por:
+> - **Alfonso Rodriguez Carlos German** — Data Science
+> - **Milagro Agustina Ramos Abdala Bello** — Solution Engineer
+> - **Melani Alexia Sol Morales Riveros** — Business Analyst
